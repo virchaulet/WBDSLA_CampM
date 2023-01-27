@@ -1,4 +1,4 @@
-### Repositorio de práctica del WBDS LA Camp
+### Repositorio de práctica del WBDS LA Pre Camp
 **Autor/a/e**: María Virginia Chaulet
 
 ##Sobre el WBDS LA Camp
